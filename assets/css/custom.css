@@ -2,3 +2,12 @@
     max-height: 35px;
     margin-top: -5px;
 }
+#facts {
+    background: #f1f1f1;
+}
+#xstoudi-picture {
+    border-radius: 146.25px;
+}
+.heart {
+    color: red;
+}
