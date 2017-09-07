@@ -1,2 +1,10 @@
 plugins:
   - jekyll-seo-tag
+title: Alduin - Feed reader
+description: Alduin software landing page
+url: alduinrss.github.io
+author:
+  twitter: Xstoudi
+  picture: /assets/img/about/graph.png
+logo: /assets/img/512x512.png
+lang: en_US
